@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempConv</string>
+    <string-array name="spinnerItem">
+        <item>FARHENHITE</item>
+        <item>CELCIUS</item>
+        <item>KELVIN</item>
+    </string-array>
+</resources>
